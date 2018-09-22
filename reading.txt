@@ -1,4 +1,4 @@
-
-
+Hello Giiiiiit - this is the master
+Hello master
 Hello Git
 Hello fix1
